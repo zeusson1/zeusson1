@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header" width="100%" />
+
 <h1 align="center">🌙 황도경입니다</h1>
 
 <p align="center">
